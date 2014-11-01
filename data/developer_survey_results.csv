@@ -1,0 +1,338 @@
+"yearsdeveloper","yearsflossdeveloper","projects","volunteer[1]","volunteer[2]","volunteer[3]","volunteer[4]","volunteer[other]","licensefamiliar","licensesigned","licensewilling","licensenonprofit","licensenonprofit[other]","assignmentfamiliar","assignmentsigned","assignmentwilling","assignmentnonprofit","assignmentnonprofit[other]","dcofamiliar","dcosigned","dcowilling","dcononprofit","dcononprofit[other]","othersigned","othersigneddetails","othersame","othernopolicy","obstacledecline","obstaclereason[1]","obstaclereason[2]","obstaclereason[3]","obstaclereason[4]","obstaclereason[other]","developercomments"
+"21.0000000000","14.0000000000","perl, python, MySQL, OpenStack, Drizzle, bzr, Zope","Yes","No","Yes","Yes","","5","Yes","3","I am unsure if non-profit/for-profit status would affect my decision","","5","No","1","I would not sign with either","","5","No","3","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","No","Yes","Yes","No","",""
+"24.0000000000","16.0000000000","","Yes","Yes","Yes","Yes","","4","No","2","I would be more likely to sign with a non-profit entity","","4","No","2","I would be more likely to sign with a non-profit entity","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","No","Yes","Yes","No","",""
+"31.0000000000","21.0000000000","Apache, GNU, *BSD, etc","Yes","No","Yes","No","","5","Yes","5","I would only sign with a non-profit entity","","5","No","1","I would not sign with either","","5","No","4","I would only contribute to a non-profit entity","","No","","Yes","No","Yes","No","No","No","No","copyright assignment",""
+"29.0000000000","28.0000000000","Linux Kernel
+Wireshark
+Perl Modules
+MySQL
+OpenStack","Yes","No","Yes","Yes","","4","Yes","3","I would be more likely to sign with a non-profit entity","","4","No","2","Other","only if the project was ""owned"" by my employer","4","No","4","I would be more likely to contribute to a non-profit entity","","No","","","Yes","Yes","Yes","Yes","Yes","No","",""
+"16.0000000000","14.0000000000","Too many to name..","Yes","No","Yes","Yes","","3","No","2","I am unsure if non-profit/for-profit status would affect my decision","","1","No","1","I am unsure if non-profit/for-profit status would affect my decision","","3","Yes","3","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","Yes","No","No","Yes","No","",""
+"39.0000000000","15.0000000000","Unix kernel
+Python libraries
+Imaplib2
+Facemail
+Mhsnet","Yes","Yes","Yes","No","","5","No","1","I would not sign with either","","4","No","1","I would not sign with either","","1","No","3","I would be more likely to contribute to a non-profit entity","","No","","Yes","Yes","No","No","No","No","Yes","",""
+"20.0000000000","15.0000000000","vuurmuur
+centerim
+postfixadmin","Yes","No","No","No","","2","No","","I would be more likely to sign with a non-profit entity","","1","","","","","1","No","","","","","","","","No","Yes","No","No","No","",""
+"15.0000000000","15.0000000000","Debian, cracklib, CAcert.org, Mandrake, sqlalchemy-migrate, protobuf, BouncyCastle","Yes","No","Yes","No","","5","No","2","I would only sign with a non-profit entity","","5","No","3","I would only sign with a non-profit entity","","1","No","1","I would not contribute to either","","No","","","","No","No","No","No","No","",""
+"4.0000000000","2.0000000000","PyBombs
+GNSS-SDR","Yes","No","No","No","","4","No","5","I would be more likely to sign with a non-profit entity","","","No","4","I would only sign with a non-profit entity","","3","No","5","I would be equally willing to contribute to either","","No","","No","Yes","No","No","No","No","No","",""
+"25.0000000000","15.0000000000","Firefox
+Thunderbird
+Bugzilla
+DSMLTools
+Online Book Exchange","Yes","No","Yes","Yes","","5","No","2","I would only sign with a non-profit entity","","5","No","2","I would only sign with a non-profit entity","","3","No","3","I am unsure if non-profit/for-profit status would affect my decision","","Yes","Mozilla
+https://www.mozilla.org/hacking/committer/committers-agreement.pdf","Yes","Yes","No","No","No","No","No","",""
+"20.0000000000","14.0000000000","Mozilla
+Subversion
+","Yes","No","Yes","No","","5","Yes","4","I would be equally willing to sign with either","","5","No","2","I would only sign with a non-profit entity","","4","No","5","I would be equally willing to contribute to either","","No","","No","Yes","No","No","No","No","No","",""
+"23.0000000000","20.0000000000","curl, libssh2, c-ares, Firefox, wget, subversion, git, hypermail, Rockbox, trio, roffit, nghttp2, wireshark ...","Yes","Yes","Yes","Yes","","4","Yes","2","I would be more likely to sign with a non-profit entity","","4","Yes","2","I would be more likely to sign with a non-profit entity","","4","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","Yes","Yes","Yes","No","",""
+"20.0000000000","5.0000000000","Mozilla","Yes","No","No","No","","2","No","","I am unsure if non-profit/for-profit status would affect my decision","","1","","","","","1","","","","","No","","Yes","Yes","Yes","No","Yes","Yes","No","","What genuine problem do contributor agreements actually solve?"
+"6.0000000000","6.0000000000","KDE
+GStreamer
+Telepathy
+Qt
+Debian","Yes","Yes","No","Yes","","3","No","3","I would be more likely to sign with a non-profit entity","","3","No","3","I would only sign with a non-profit entity","","4","No","5","I would be equally willing to contribute to either","","No","","Yes","I don't know","No","No","No","No","No","",""
+"18.0000000000","13.0000000000","Mercurial, Mozilla, CouchDB, nanomsg, CouchDB-Python, mod_authnz_persona, web-platform-tests, Gentoo Linux, Gnome.","Yes","No","Yes","Yes","","3","Yes","4","I would be more likely to sign with a non-profit entity","","2","No","2","I would be more likely to sign with a non-profit entity","","2","No","","I would be equally willing to contribute to either","","I don't know","I don't think so!","Yes","Yes","No","No","No","No","No","",""
+"30.0000000000","8.0000000000","Firefox
+Chromium
+","Yes","No","No","No","","","No","","Other","Whichever one lets me stay anonymous","","","","Other","Whichever one lets me stay anonymous","","","","Other","Whichever one lets me stay anonymous","","","Yes","Yes","N/A","No","No","No","No","",""
+"15.0000000000","15.0000000000","Mozilla
+Other projects as drive-by bug fixes","Yes","No","Yes","Yes","","4","No","2","I am unsure if non-profit/for-profit status would affect my decision","","4","No","1","I am unsure if non-profit/for-profit status would affect my decision","","1","I don't know","","","","Yes","Mozilla CLA","Yes","Yes","Yes","No","No","Yes","No","","Transifex going closed-source taking external contributions with them shapes most of my opinions here."
+"21.0000000000","16.0000000000","Mozilla","Yes","No","Yes","No","","5","Yes","3","I would only sign with a non-profit entity","","5","Yes","1","I would not sign with either","","5","Yes","5","I would be equally willing to contribute to either","","I don't know","","Yes","Yes","No","No","No","No","No","",""
+"6.0000000000","6.0000000000","Mozilla (documentation), various libraries, started small personal projects","Yes","No","No","No","","4","No","4","I would be equally willing to sign with either","","3","No","4","I would be equally willing to sign with either","","2","No","4","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","","My experience is that a bigger barrier to entry than contribution agreements is the general attitude of the people you meet on the bug tracker."
+"15.0000000000","15.0000000000","Mozilla, Firefox, Validator.nu","Yes","Yes","Yes","Yes","","5","No","2","I would be more likely to sign with a non-profit entity","","5","Yes","2","I would be more likely to sign with a non-profit entity","","4","Yes","2","I would be more likely to contribute to a non-profit entity","","No","","Yes","No","N/A","No","No","No","No","","I've only assigned copyrights in work-for-hire scenarios--never when contributing without pay. It would have been useful to distinguish these in the questionnaire."
+"15.0000000000","13.0000000000","Mozilla","Yes","No","No","No","","4","No","4","I would be more likely to sign with a non-profit entity","","3","No","2","I would be more likely to sign with a non-profit entity","","1","No","3","I would be more likely to contribute to a non-profit entity","","No","","Yes","No","No","No","No","No","No","I haven't ""declined"", but it has prevented me from looking into contributing in the first place",""
+"20.0000000000","14.0000000000","Mozilla","Yes","No","No","Yes","","5","Yes","5","I would be more likely to sign with a non-profit entity","","5","No","2","I would only sign with a non-profit entity","","5","No","5","I would be equally willing to contribute to either","","Yes","Mozilla Committer's Agreement","Yes","I don't know","No","No","No","No","No","","Sometimes the lines between the categories you specified can be a bit blurry, esp. when you go into depths of what rights the agreement itself assigns to an entity and what the license does (e.g. the Mozilla Foundation can issue a new version of the MPL and therefore change the specific license terms while the Committer's Agreement doesn't by itself give Mozilla any special privileges when it comes to licensing changes)."
+"14.0000000000","14.0000000000","Mozilla
+OpenOffice.org
+R
+Misc others.
+","Yes","Yes","Yes","No","Academic researcher, evangelist, project manager","5","Yes","5","I would be equally willing to sign with either","","5","No","2","I would not sign with either","","2","No","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","",""
+"17.0000000000","12.0000000000","Mozilla * (SeaMonkey/Firefox/Thunderbird/MDN/Wiki.mozilla.org/Addons.mozilla.org/etc)
+Mediawiki
+Buildbot
+... (possibly others)","Yes","No","Yes","Yes","","4","Yes","5","I would be equally willing to sign with either","","4","No","5","I am unsure if non-profit/for-profit status would affect my decision","","1","I don't know","","I am unsure if non-profit/for-profit status would affect my decision","","Yes","https://www.mozilla.org/hacking/committer/committers-agreement.pdf
+
+https://cla.puppetlabs.com/","I don't know","Yes","No","No","No","No","No","","I've wanted to, early in my volunteer status for Mozilla, assign copyright to them. So that future choices to switch licenses in code I wrote/contributed to were possible without my explicit permission. At the time Mozilla had no mechanism for that.
+
+I would be more willing to do a form of copyright assignment as long as I don't lose my own personal ability to use/assign/etc the material as well. (e.g. I can't be sued by the company I assign it to, nor their related partners for the code I wrote, barring other circumstances)
+
+"
+"17.0000000000","10.0000000000","many","Yes","No","No","No","","5","No","1","I would not sign with either","","4","No","1","I would not sign with either","","5","Yes","5","I am unsure if non-profit/for-profit status would affect my decision","","No","","","Yes","Yes","No","Yes","No","No","","We're doing everyone a disservice with license incompatibilities and artificial contribution agreements while the non-free world laughs at us :(."
+"20.0000000000","15.0000000000","Linux, Firefox, Chrome, GRUB, Python, Debian, git, X, numerous others.","Yes","No","Yes","Yes","","5","Yes","2","Other","Only if the non-profit's mission was related to FOSS. (Not for an unrelated non-profit working on software.)","5","No","1","I would not sign with either","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","Yes","Yes","Yes","No","Project had no means or process for accepting casual contributions; nobody took it as their job to apply patches from the mailing list for non-committers.","A contributor agreement or copyright assignment agreement can kill a project, and will at the very least severely reduce interest in contributions."
+"6.0000000000","6.0000000000","Mozilla Firefox
+Mozilla Servo
+The Anolis document preprocessor
+html5lib
+Various smaller projects","Yes","No","No","Yes","","4","No","2","I would be equally willing to sign with either","","1","No","2","I would be equally willing to sign with either","","1","No","","","","Yes","https://www.mozilla.org/hacking/committer/committers-agreement.pdf","I don't know","Yes","Yes","Yes","Yes","No","No","",""
+"27.0000000000","14.0000000000","Perl
+Firefox
+various Cpan modules
+units
+WeasyPrint","Yes","No","No","No","","4","No","4","I would be more likely to sign with a non-profit entity","","4","No","4","I would be more likely to sign with a non-profit entity","","1","No","","","","No","","Yes","Yes","No","No","No","No","No","","For small fixes — generally to projects I wasn't intending to work on, but happened to spot something small and submitted a fix — I'm very happy to assign any rights over for the project to do whatever it wants with it; I'm not planning on hanging around long-term or being involved any further than that one fix.
+
+For projects I intend to work with in bigger ways and become a contributor to, I want to know what the situation is with copyright and licences. If I'm investing a significant portion of my time, I want to know that the effort is worthwhile, and there isn't a chance of it going missing."
+"14.0000000000","11.0000000000","Debian, Moodle, Mahara, Libravatar, Persona","Yes","No","Yes","No","","3","Yes","3","I would be more likely to sign with a non-profit entity","","3","Yes","2","I would be more likely to sign with a non-profit entity","","3","No","4","I would be equally willing to contribute to either","","I don't know","","Yes","Yes","No","No","No","No","No","",""
+"10.0000000000","10.0000000000","Mozilla
+Pidgin
+Gnome
+Gnash
+Linux
+OpenStreetMap
+Wine
+others","Yes","No","Yes","No","","3","No","2","I would only sign with a non-profit entity","","3","No","2","I would only sign with a non-profit entity","","3","Yes","5","I would be equally willing to contribute to either","","Yes","For Open Data, rather than OSS, I have agreed to the OpenStreetMap Contributor Terms, http://www.osmfoundation.org/wiki/License/Contributor_Terms . (I have also written code for OSM, but that code is not covered by those terms.)","Yes","Yes","Yes","Yes","Yes","Yes","No","",""
+"15.0000000000","12.0000000000","Mostly stuff in the perl ecosystem. Lots of modules including Moose, Catalyst, and DBIX::Class. Perl core, Parrot, XMMS2, git, Linux kernel.","Yes","No","Yes","Yes","","2","No","2","I would be more likely to sign with a non-profit entity","","4","Yes","3","I would not sign with either","","4","Yes","5","I would not contribute to either","","I don't know","","Yes","Yes","Yes","Yes","Yes","No","No","",""
+"16.0000000000","14.0000000000","Ubuntu
+Inkscape
+Teg
+Gnome
+","Yes","No","Yes","No","","5","Yes","4","I would be more likely to sign with a non-profit entity","","5","Yes","4","I would be more likely to sign with a non-profit entity","","5","No","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","","[anonymized], [anonymized], you know all my biases ;-)"
+"10.0000000000","10.0000000000","Python, Twisted, Mozilla","Yes","No","Yes","No","","3","No","1","I would not sign with either","","3","Yes","2","I would be more likely to sign with a non-profit entity","","3","No","5","I would be more likely to contribute to a non-profit entity","","No","","Yes","No","No","No","No","No","No","",""
+"4.0000000000","4.0000000000","Rails, Ubuntu, Kandan.","Yes","No","Yes","Yes","","4","Yes","3","I am unsure if non-profit/for-profit status would affect my decision","","4","I don't know","3","I am unsure if non-profit/for-profit status would affect my decision","","4","I don't know","3","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","Yes","Yes","No","No","",""
+"20.0000000000","18.0000000000","Dylan
+GNU
+libre.fm
+Many personal projects","Yes","No","No","No","","5","Yes","5","I would only sign with a non-profit entity","","5","Yes","5","I would only sign with a non-profit entity","","1","I don't know","","","","No","","","","Yes","No","No","Yes","No","","It's vitally important to differentiate between community nonprofit projects dedicated to protecting software freedom and exploitative corporate or trade body projects when discussing licensing/CLAs/etc."
+"13.0000000000","11.0000000000","Firefox, Mozilla Suite, Mozilla Ubiquity, numerous other Mozilla projects, numerous small FLOSS projwects","Yes","No","Yes","No","","3","Yes","5","I would be equally willing to sign with either","","3","Yes","4","I would be more likely to sign with a non-profit entity","","4","Yes","5","I would be equally willing to contribute to either","","I don't know","","Yes","Yes","Yes","Yes","No","No","No","",""
+"20.0000000000","14.0000000000","Gentoo
+Debian
+OpenStack
+Ubuntu","Yes","No","Yes","Yes","","4","Yes","3","I would be more likely to sign with a non-profit entity","","4","Yes","2","I would be more likely to sign with a non-profit entity","","3","No","4","I am unsure if non-profit/for-profit status would affect my decision","","No","","I don't know","I don't know","Yes","No","No","Yes","No","",""
+"8.0000000000","4.0000000000","in general Mozilla ( 3-4 within it)","Yes","No","Yes","No","","4","Yes","4","I would be more likely to sign with a non-profit entity","","3","No","3","I am unsure if non-profit/for-profit status would affect my decision","","2","No","3","","","Yes","Official Representative of Mozilla NDA","Yes","Yes","Yes","No","No","Yes","No","",""
+"35.0000000000","29.0000000000","Kermit
+OpenSSL
+OpenAFS
+MIT Kerberos
+Heimdal
+Network Identity Manager
+Cygwin
+Secure Remote Password
+others","Yes","No","Yes","Yes","project founder and copyright holder","5","Yes","5","I would be equally willing to sign with either","","5","Yes","5","I would be equally willing to sign with either","","5","No","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","No","No","No","No","I am reluctant to contribute to projects that use copyleft licenses",""
+"15.0000000000","15.0000000000","Debian and countless others","Yes","No","No","No","","5","Yes","5","I would be more likely to sign with a non-profit entity","","5","Yes","5","I would only sign with a non-profit entity","","5","Yes","5","I would be more likely to contribute to a non-profit entity","","Yes","Sun's cla created co-ownership of the copyright in the contribution, an interesting middle-path.","No","Yes","No","No","No","No","No","","There is a good bit of misunderstanding out there about CLAs and related docs by both contributors and those that lead/manage projects. I find them an understandable reality, even if annoying, and think it would be great if every project came to see them as a best practice and 2-3 standard agreements became common. That is, we need 'the GPL' of CLAs to emerge so that it can become as frictionless as the GPL did. Apache's CLA is close to this, but people are still confused about it. The OSI, FSF, Linux Fdn, and major distros could lead the way here, but it's unclear they could all agree on messaging around this."
+"13.0000000000","9.0000000000","Docker, Hy, Linux, Debian, etc (lots of small ones)","Yes","No","Yes","Yes","","4","Yes","4","I would be equally willing to sign with either","","1","No","","I am unsure if non-profit/for-profit status would affect my decision","","5","Yes","3","I would be equally willing to contribute to either","","I don't know","","Yes","Yes","Yes","Yes","Yes","No","No","","While I'm sure that DCOs and CLAs serve a useful legal purpose, I've found that they have a severe impact on the level of contribution, since they add an arbitrary ""paperwork"" barrier to entry that is otherwise not present and doesn't improve the functionality of the contribution in any other way.
+
+An open source project's most valuable resource is the time that is freely donated to it by contributors, and any distraction of that time on paperwork and overhead essentially redirects that contributor's donated time to the dump."
+"15.0000000000","15.0000000000","GCC, GDB, binutils, QEMU, SBCL, Mozilla, and a host of smaller ones.","Yes","No","Yes","No","","5","Yes","4","I am unsure if non-profit/for-profit status would affect my decision","","4","No","4","I am unsure if non-profit/for-profit status would affect my decision","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","",""
+"22.0000000000","19.0000000000","LaTeX, Lynx, the Linux kernel, GCC, binutils, Wine, Debian...","Yes","No","No","No","","5","No","3","I would be more likely to sign with a non-profit entity","","5","Yes","2","I would only sign with a non-profit entity","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","No","Yes","Yes","No","",""
+"16.0000000000","13.0000000000","Mozilla and related
+misc. smaller contributions","Yes","No","Yes","No","","4","Yes","4","I am unsure if non-profit/for-profit status would affect my decision","","3","No","1","Other","Only as part of employment","3","No","3","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","Yes","Yes","Yes","No","No","","Projects with change-of-license clauses (GPL2 ""or later"", MPL newer versions) will make me think twice, but not necessarily prevent me from contributing.  This is in contrast with free-for-all licenses such as the BSD-likes, where I have no such qualms, mainly due to the power assymetry."
+"16.0000000000","10.0000000000","Mozilla Firefox
+various Firefox add-ons
+HabitRPG","Yes","No","No","No","","2","No","3","I would be more likely to sign with a non-profit entity","","1","No","1","I would be more likely to sign with a non-profit entity","","1","No","4","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","No","No","No","No","No","",""
+"10.0000000000","5.0000000000","ogre
+ogre4j
+prim-ftpd
+struts
+","Yes","No","Yes","No","","4","Yes","5","I would be more likely to sign with a non-profit entity","","4","I don't know","3","","","1","I don't know","3","","","No","","Yes","Yes","No","No","No","No","No","",""
+"20.0000000000","15.0000000000","Linux kernel, ethtool, iproute2","No","No","Yes","No","","1","No","2","I am unsure if non-profit/for-profit status would affect my decision","","","","","","","5","Yes","5","I would be equally willing to contribute to either","","","Linux kernel S-O-B policy","","","Yes","Yes","No","Yes","No","",""
+"20.0000000000","15.0000000000","Perl
+Docker
+Erlang","Yes","No","Yes","No","","3","I don't know","1","I would not sign with either","","2","No","1","I would not sign with either","","4","Yes","3","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","Yes","Yes","No","Yes","No","","The case against contribution agreements can be made with one example: Oracle and MySQL. (Oracle and OpenSolaris is a close second.)"
+"20.0000000000","17.0000000000","git, twitter commons, pantsbuild, opentripplanner, onebusaway, sqlobject, inkscape, misc others","Yes","No","Yes","Yes","","5","Yes","3","Other","The text of the agreement is what's important, not the entitty","5","No","3","Other","https://www.fsf.org/blogs/rms/assigning-copyright","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","","I just follow the FSF's advice when working on my own: https://www.fsf.org/blogs/rms/assigning-copyright
+
+And when I'm working for a company, I follow their rules."
+"25.0000000000","15.0000000000","Apache Xalan, Apache Foundation","Yes","No","Yes","No","","5","Yes","5","I would be more likely to sign with a non-profit entity","","5","No","2","I would not sign with either","","4","No","4","I would be more likely to contribute to a non-profit entity","","No","","Yes","Yes","Yes","No","Yes","No","No","I only contribute to permissively licensed projects","Personally, I try to only contribute under permissive licenses, like MIT/BSD or Apache.  I believe permissive-license fans are often under-represented in the FLOSS community public discussion not because we have any ""less"" belief and desire to use our license (versus copyleft fans), but mostly because copyleft fans tend to be much louder and more demanding in their promotion of copyleft.
+
+Note that this is a separate discussion from commercial companies; i.e. I believe there are many independent developers who prefer permissive licenses personally, not just because of their employer."
+"10.0000000000","7.0000000000","OpenMRS
+DHIS2
+Netbeans
+OpenJDK
+LeJOS
+Tomcat","Yes","No","No","Yes","","5","Yes","3","I would be more likely to sign with a non-profit entity","","4","Yes","4","I would be more likely to sign with a non-profit entity","","2","I don't know","3","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","No","No","No","No","No","",""
+"11.0000000000","10.0000000000","Mozilla","Yes","No","Yes","Yes","","4","Yes","5","I would be equally willing to sign with either","","3","No","3","I am unsure if non-profit/for-profit status would affect my decision","","1","I don't know","","","","No","Signed W3C's Invited Expert agreement,
+and its test contribution agreement.","Yes","No","No","No","No","No","No","",""
+"30.0000000000","15.0000000000","mostly various Perl modules
+patches to some other pieces of software","Yes","No","No","No","","4","No","4","I am unsure if non-profit/for-profit status would affect my decision","","2","No","2","I would only sign with a non-profit entity","","2","No","4","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","No","No","No","No","No","","My main concern with assigning copyright to an other entity is that, if I understand it correctly, they can then change the license without me having a say."
+"16.0000000000","14.0000000000","Mozilla","Yes","No","No","No","","4","No","3","I would be more likely to sign with a non-profit entity","","4","No","2","I am unsure if non-profit/for-profit status would affect my decision","","1","No","","I am unsure if non-profit/for-profit status would affect my decision","","Yes","Mozilla Contributor agreement, to check in code only if I've originated it, etc.","Yes","I don't know","Yes","No","Yes","No","No","",""
+"4.0000000000","5.0000000000","Ubuntu, Mozilla, CKAN, Etherpad, Launchpad, PyBossa","Yes","No","Yes","No","","4","Yes","2","I would be more likely to sign with a non-profit entity","","5","Yes","1","I would only sign with a non-profit entity","","5","No","5","I would be equally willing to contribute to either","","Yes","Mozilla Committer's Agreement","I don't know","Yes","Yes","No","No","Yes","No","",""
+"3.0000000000","3.0000000000","OpenStack
+Linux Kernel
+nfs-utils
+testrepository
+Arch Linux","Yes","No","Yes","No","","5","Yes","3","I would be more likely to sign with a non-profit entity","","3","No","","I would be more likely to sign with a non-profit entity","","3","No","","I would be more likely to contribute to a non-profit entity","","No","","I don't know","Yes","Yes","Yes","No","Yes","No","",""
+"25.0000000000","20.0000000000","OpenStack, glibc, openSUSE","Yes","No","Yes","No","","4","Yes","2","I would be more likely to sign with a non-profit entity","","4","Yes","2","I would only sign with a non-profit entity","","2","No","4","I would be more likely to contribute to a non-profit entity","","No","","Yes","I don't know","Yes","No","Yes","Yes","No","",""
+"35.0000000000","25.0000000000","OpenStack, Debian, miscellaneous smaller projects over the years","Yes","No","Yes","No","","5","Yes","2","I would only sign with a non-profit entity","","5","No","2","I would only sign with a non-profit entity","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","No","No","Yes","No","","The recent proliferation of copyright license agreements risks undermining the viability of traditional free software licenses by providing precedent and legal implication that they are, by themselves, insufficient to protect the interests of the projects, their contributors and users. I do not believe this to be the case, as quite a lot of design effort (including from interested legal policy authors and defenders) has gone into the design of modern open source and free software licenses. Further, contributor license agreements have a ""chilling effect"" on contributions to free software projects, since they are all too often also used in various forms to nefarious ends by companies wishing to leverage community labor in production of ""open core"" software and similar exploitative business models."
+"2.0000000000","3.0000000000","openstack","Yes","No","Yes","No","","4","Yes","2","I would be more likely to sign with a non-profit entity","","1","No","","","","1","I don't know","","","","No","","No","No","No","No","No","No","No","",""
+"1.0000000000","1.0000000000","Openstack","Yes","No","No","No","","1","","5","I would be equally willing to sign with either","","1","I don't know","","","","1","I don't know","3","I am unsure if non-profit/for-profit status would affect my decision","","No","","I don't know","Yes","No","No","No","No","No","",""
+"22.0000000000","22.0000000000","OpenStack
+python
+zope
+virtualenvwrapper
+nedit
+many many libraries","Yes","No","Yes","No","","4","Yes","3","I would be more likely to sign with a non-profit entity","","4","Yes","3","I would be more likely to sign with a non-profit entity","","3","No","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","",""
+"35.0000000000","23.0000000000","Linux kernel, perl5, OpenStack","Yes","No","Yes","Yes","","4","Yes","2","I would be more likely to sign with a non-profit entity","","4","Yes","2","I would be more likely to sign with a non-profit entity","","4","Yes","4","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","Yes","No","Yes","No","",""
+"20.0000000000","13.0000000000","Libxml++
+Log4cxx
+Tgwebservices
+Wsme
+Odt2sphinx
+CubicWeb
+Webtest
++patches here and there","Yes","No","Yes","No","","3","Yes","3","I would be more likely to sign with a non-profit entity","","1","I don't know","3","I would be more likely to sign with a non-profit entity","","2","No","4","I am unsure if non-profit/for-profit status would affect my decision","","I don't know","I signes the apache fondation stuffs long time ago. I cannot remember what kind it was.","I don't know","Yes","No","No","No","No","No","",""
+"15.0000000000","15.0000000000","Samba, Debian, Ubuntu, wireshark, git, bazaar, subversion, bitlbee, launchpad, various smaller projects","Yes","Yes","Yes","Yes","","3","No","2","I would be more likely to sign with a non-profit entity","","3","Yes","1","I would be more likely to sign with a non-profit entity","","4","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","Yes","Yes","Yes","No","",""
+"10.0000000000","10.0000000000","Fabric
+Pylons
+Pyramid
+YUI
+a handful of libraries","Yes","No","Yes","No","","4","No","4","I would be equally willing to sign with either","","4","No","5","I would be equally willing to sign with either","","2","No","","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","Yes","No","No","Yes","No","",""
+"35.0000000000","13.0000000000","Perl 6, PmWiki, Parrot","Yes","Yes","Yes","Yes","","5","Yes","5","I am unsure if non-profit/for-profit status would affect my decision","","5","Yes","5","I am unsure if non-profit/for-profit status would affect my decision","","1","I don't know","","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","Yes","Yes","No","No","No","I was (legally) unable to agree to the terms of contribution.",""
+"15.0000000000","8.0000000000","openais
+corosync
+libqb
+openstack","Yes","No","Yes","No","","5","Yes","2","I would be more likely to sign with a non-profit entity","","3","Yes","2","I would only sign with a non-profit entity","","2","I don't know","3","I would only contribute to a non-profit entity","","No","","I don't know","No","Yes","No","Yes","Yes","No","",""
+"19.0000000000","5.0000000000","parrot","Yes","No","Yes","No","","3","Yes","3","I would be more likely to sign with a non-profit entity","","2","No","3","I would be more likely to sign with a non-profit entity","","1","No","3","I am unsure if non-profit/for-profit status would affect my decision","","No","","No","Yes","No","No","No","No","No","",""
+"12.0000000000","10.0000000000","KDE, Gnome, OpenStack","Yes","No","Yes","No","","4","Yes","2","I would be more likely to sign with a non-profit entity","","4","No","2","I would be more likely to sign with a non-profit entity","","4","Yes","4","I would be more likely to contribute to a non-profit entity","","No","","Yes","Yes","Yes","No","No","No","Yes","",""
+"20.0000000000","20.0000000000","Linux Kernel
+Openstack
+OpenMPI
+Linux Standard Base","Yes","No","Yes","No","","5","Yes","4","I would only sign with a non-profit entity","","5","No","4","I would only sign with a non-profit entity","","3","Yes","4","I would only contribute to a non-profit entity","","No","","","","No","No","No","No","No","",""
+"33.0000000000","23.0000000000","have taught free classes with free software examples for Emacs, LaTeX, Mathematica, Perl 5, Perl 6, pro, etc.","Yes","No","No","Yes","","3","No","5","I would be equally willing to sign with either","","3","No","5","I would be equally willing to sign with either","","2","No","5","I would be equally willing to contribute to either","","No","","No","No","No","No","No","No","No","","I wrote a free and open TeX/LaTeX previewer for BBN BitGraph terminals in the early 1980s.  The first sentence in the documentation was something like ""Do not contact me about this project"" and lots of people contacted me.  That turned me off on doing any free software projects from then on except for free classes I've taught at Purdue University campuses at West Lafayette, Indiana and Indianapolis, Indiana compuses."
+"16.0000000000","8.0000000000","Cpan","Yes","No","Yes","No","","4","Yes","2","I would be more likely to sign with a non-profit entity","","4","Yes","3","I would only sign with a non-profit entity","","1","No","2","I would only contribute to a non-profit entity","","No","","Yes","Yes","Yes","Yes","No","No","No","","My employers restrictions on my contributions are much more restrictive than the survey seems to account for. The primary driver of my contributions or lack of its due to my day job's restrictions and review requirements on any contributions. "
+"34.0000000000","29.0000000000","emacs, linux kernel, binutils, gcc, perl, ...","Yes","No","Yes","Yes","","5","Yes","5","I would be more likely to sign with a non-profit entity","","5","Yes","5","I would be more likely to sign with a non-profit entity","","","Yes","","I would be more likely to contribute to a non-profit entity","","No","","Yes","Yes","Yes","No","No","Yes","No","","The details matter to me. If the assignment means ""Our commercial company can take [anonymized]'s contribution to a GPL-with-proprietary-avialable project and license it to people on commercial terms"" then I don't want to sign it. Pure GPL? Great. BSD? OK if the organization is non-profit.
+"
+"10.0000000000","5.0000000000","OpenStack
+Sugar
+Gnome","Yes","No","Yes","No","","4","Yes","2","I would be more likely to sign with a non-profit entity","","4","No","2","I would only sign with a non-profit entity","","4","No","5","I would be equally willing to contribute to either","","Yes","OpenStack Individual CLA","","Yes","Yes","Yes","Yes","No","No","","They seem to make the barrier higher for first-time/drive-by contributors, which is when we need to make it as easy as possible to contribute to give people a chance to get a taste for the community, and hopefully want to stick around."
+"7.0000000000","2.0000000000","Contributed in Nova & Tempest","No","No","Yes","No","","5","Yes","4","I would be equally willing to sign with either","","5","Yes","4","I would be equally willing to sign with either","","3","No","3","I would be equally willing to contribute to either","","Yes","Individual & company LA for OpenStack ","I don't know","No","No","No","No","No","No","NA",""
+"15.0000000000","4.0000000000","Openstack
+Cloudstack","No","No","Yes","No","","4","Yes","3","I would be more likely to sign with a non-profit entity","","1","I don't know","","","","4","Yes","2","I would be more likely to contribute to a non-profit entity","","No","","I don't know","No","No","No","No","No","No","",""
+"10.0000000000","4.0000000000","openstack
+subversion
+jclouds
+emacs orgmode","Yes","No","No","No","","4","Yes","5","","","","Yes","5","I would only sign with a non-profit entity","","1","No","4","I would only contribute to a non-profit entity","","No","","Yes","No","No","No","No","No","No","",""
+"7.0000000000","4.0000000000","exercism.io
+git-hub
+Various Perl modules on CPAN
+","Yes","No","No","No","","2","No","3","I am unsure if non-profit/for-profit status would affect my decision","","1","","","","","1","No","3","I am unsure if non-profit/for-profit status would affect my decision","","No","","I don't know","Yes","No","No","No","No","No","",""
+"15.0000000000","15.0000000000","","Yes","No","Yes","No","","3","Yes","5","I would only sign with a non-profit entity","","3","No","3","I would only sign with a non-profit entity","","5","No","2","I would only contribute to a non-profit entity","","Yes","","Yes","Yes","No","No","No","No","No","",""
+"5.0000000000","4.0000000000","Debian, SILPA, FalconPL, pbr (openstack)","Yes","No","No","No","","5","No","3","I would only sign with a non-profit entity","","3","I don't know","","I am unsure if non-profit/for-profit status would affect my decision","","1","","","","","I don't know","","Yes","No","N/A","No","No","No","No","",""
+"2.0000000000","2.0000000000","OpenStack","No","No","Yes","No","","2","Yes","3","I am unsure if non-profit/for-profit status would affect my decision","","1","I don't know","3","I am unsure if non-profit/for-profit status would affect my decision","","1","I don't know","3","I am unsure if non-profit/for-profit status would affect my decision","","","","","","N/A","No","No","No","No","",""
+"32.0000000000","25.0000000000","perl5 (CORE & CPAN), tcsh, claws-mail, libreoffice, xterm, grep, elvis, git, openssl, bitlbee, hexchat, zlib, di, wget, gcc, sqlite, ccache, postgres, lsof, tar, rsync, bison, gftp","Yes","No","No","No","","2","Yes","2","Other","I would only sign if my boss/the company would urge me to do so in order to help our own project forward in helping the ""project"". Now the boss/company will back me up in case of trouble","1","I don't know","","","","1","I don't know","","","","I don't know","","I don't know","I don't know","No","No","No","No","No","Previous answer was No, but I won't ever contribute again to projects that will publish my code with my name attached to it but ALSO restyling the code (layout) for consistency",""
+"35.0000000000","20.0000000000","Iptables
+Dancer::SimpleCrud
+","Yes","No","No","No","","4","No","4","I am unsure if non-profit/for-profit status would affect my decision","","1","No","","","","1","I don't know","","","","No","","I don't know","I don't know","N/A","No","No","No","No","",""
+"8.0000000000","6.0000000000","PHP, FreeBSD, PowerDNS","Yes","No","Yes","No","","4","No","2","I would be more likely to sign with a non-profit entity","","4","No","2","I would be more likely to sign with a non-profit entity","","1","I don't know","","I am unsure if non-profit/for-profit status would affect my decision","","No","","","Yes","No","No","No","No","No","",""
+"16.0000000000","14.0000000000","Kernel patch (I can't remember if it got accepted or not)
+Knoppix-Freevo
+TinyERP - OpenErp (now know as odoo)
+Tryton (declined being mentionned as contributor)
+A-responsive-1 (redmine)","Yes","No","Yes","No","","4","Yes","3","Other","I all depends on the content of the licence agreement","4","Yes","5","Other","again, it depends on the type of copyright assignment more than the other party's quality","1","I don't know","","","","No","","Yes","Yes","No","Yes","No","No","No","","Although there has to be structure in contribution policies the general feeling I get is that a lot of project owners/maintainer are often making it overly difficult to contribute to their project(s) which in the end discourages eventual contributors.
+There are exceptions thou, Django for example is one of the projects I consider to be the most open in that matter"
+"20.0000000000","15.0000000000","Debian","Yes","No","No","No","","4","Yes","2","I would be more likely to sign with a non-profit entity","","4","Yes","2","I would be more likely to sign with a non-profit entity","","2","No","3","I would be more likely to contribute to a non-profit entity","","No","","Yes","Yes","No","No","No","No","No","",""
+"33.0000000000","20.0000000000","perl5, perl6, and many others","Yes","No","Yes","Yes","","2","No","5","I would be more likely to sign with a non-profit entity","","3","No","5","I would be more likely to sign with a non-profit entity","","2","No","5","I would be more likely to contribute to a non-profit entity","","No","","Yes","Yes","No","No","No","No","No","",""
+"20.0000000000","13.0000000000","Projects at the Apache Software Foundation
+Self-owned projects","Yes","No","Yes","No","","5","Yes","2","I would only sign with a non-profit entity","","5","No","1","I would not sign with either","","4","No","5","I would be equally willing to contribute to either","","No","","No","Yes","No","No","No","No","No","","Would love to see the members of the TodoGroup answering these in public :)"
+"15.0000000000","6.0000000000","Perl, SDL, Perl 6, Rakudo, Parrot, MoarVM","Yes","No","No","No","","4","Yes","5","I would be more likely to sign with a non-profit entity","","1","No","4","","","2","No","4","I would be equally willing to contribute to either","","Yes","Perl CLA as a requirement to work on rakudo","I don't know","Yes","No","No","No","No","No","",""
+"15.0000000000","15.0000000000","Xen, KVM, libvirt, openstack, QEMU, GTK-VNC, SPICE, GNOME, systemd, selinux","Yes","No","Yes","No","","5","Yes","2","I would not sign with either","","5","No","1","I would not sign with either","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","Yes","Yes","Yes","No","","Contributor agreements discourage growth of many communities which is ultimately harmful to their long term success. eg many canonical funded projects which are now dead & dieing due to CLA."
+"4.0000000000","3.0000000000","Perl, GNOME","Yes","Yes","Yes","No","","1","No","3","I am unsure if non-profit/for-profit status would affect my decision","","1","I don't know","","","","1","No","","","","No","","I don't know","Yes","Yes","Yes","No","Yes","No","",""
+"30.0000000000","24.0000000000","Perl, Linux, DGD, Angband, bits and pieces elsewhere.","Yes","No","Yes","No","","2","I don't know","2","I would be equally willing to sign with either","","1","I don't know","2","I am unsure if non-profit/for-profit status would affect my decision","","1","No","3","I am unsure if non-profit/for-profit status would affect my decision","","No","","I don't know","Yes","No","No","No","No","No","",""
+"17.0000000000","12.0000000000","Parrot
+Perl 5
+Grackle","Yes","No","No","No","","5","No","3","I would be more likely to sign with a non-profit entity","","5","No","3","I would only sign with a non-profit entity","","1","I don't know","","","","No","","Yes","I don't know","No","No","No","No","No","",""
+"2.0000000000","2.0000000000","Debian, GNOME, OpenStack","Yes","No","Yes","No","","","Yes","2","I would be more likely to sign with a non-profit entity","","4","Yes","2","I would be more likely to sign with a non-profit entity","","2","No","4","I would be more likely to contribute to a non-profit entity","","I don't know","","I don't know","Yes","No","No","No","No","No","",""
+"35.0000000000","13.0000000000","perl5","Yes","Yes","No","Yes","","3","No","2","I am unsure if non-profit/for-profit status would affect my decision","","2","No","2","I am unsure if non-profit/for-profit status would affect my decision","","1","No","","","","No","","I don't know","Yes","No","No","No","No","No","",""
+"10.0000000000","1.0000000000","Openstack tempest","No","No","Yes","No","","4","Yes","5","I would be equally willing to sign with either","","2","I don't know","","I am unsure if non-profit/for-profit status would affect my decision","","1","","","","","No","","I don't know","No","No","No","No","No","No","",""
+"14.0000000000","8.0000000000","Among others:
+
+OpenStack Swift
+Fog
+Graphite
+Thor
+Test::Resub","Yes","No","Yes","No","","5","Yes","4","I would be more likely to sign with a non-profit entity","","3","No","2","I would only sign with a non-profit entity","","1","No","","","","No","","","Yes","Yes","Yes","No","No","No","",""
+"20.0000000000","2.0000000000","Parrot","Yes","No","No","No","","5","Yes","5","I am unsure if non-profit/for-profit status would affect my decision","","5","Yes","5","I would be more likely to sign with a non-profit entity","","1","No","","I am unsure if non-profit/for-profit status would affect my decision","","No","","No","Yes","No","No","No","No","No","",""
+"35.0000000000","35.0000000000","Lots","Yes","No","Yes","Yes","","5","Yes","3","I would be more likely to sign with a non-profit entity","","5","Yes","3","I would be more likely to sign with a non-profit entity","","1","I don't know","","","","No","","Yes","Yes","Yes","Yes","Yes","No","No","",""
+"18.0000000000","14.0000000000","Zope, python, mitmproxy, others","Yes","No","Yes","No","","5","No","1","I would not sign with either","","2","No","1","I would not sign with either","","1","No","3","I would only contribute to a non-profit entity","","No","","Yes","No","No","No","No","No","No","",""
+"6.0000000000","3.0000000000","Django
+Django-ses 
+Django-oauth-toolkit","Yes","No","Yes","No","","4","Yes","5","I would be more likely to sign with a non-profit entity","","3","Yes","5","I would be more likely to sign with a non-profit entity","","1","No","","","","No","","Yes","No","Yes","Yes","No","No","No","",""
+"15.0000000000","9.0000000000","","Yes","Yes","No","No","","4","Yes","3","I would only sign with a non-profit entity","","4","Yes","3","I would only sign with a non-profit entity","","4","Yes","3","I would only contribute to a non-profit entity","","No","","Yes","No","Yes","Yes","No","Yes","No","",""
+"15.0000000000","10.0000000000","MySQL, OpenStack, Drizzle, various Python libs, habari, MySQL forge","Yes","No","Yes","No","","4","Yes","3","I would be more likely to sign with a non-profit entity","","4","Yes","1","I would not sign with either","","3","No","3","I would be more likely to contribute to a non-profit entity","","No","","Yes","Yes","No","No","No","No","No","","I personally find the legal arguments surrounding CLAs to be mostly theoretical and pointless. I don't know of a single legal case that has been decided based on whether someone or some group signed or did not sign a particular CLA. Therefore, I view the whole concept of CLAs as decidedly a make-work effort for and by lawyers with nothing better to do with their time."
+"17.0000000000","16.0000000000","Perl
+Apache httpd
+Apache APR
+mod_perl
+MySQL
+OpenOffice","Yes","No","Yes","No","","3","Yes","5","I am unsure if non-profit/for-profit status would affect my decision","","1","No","3","I would be more likely to sign with a non-profit entity","","1","No","3","I would be more likely to contribute to a non-profit entity","","No","","I don't know","Yes","No","No","No","No","No","",""
+"40.0000000000","10.0000000000","Sugar Labs","Yes","Yes","Yes","Yes","","5","Yes","4","I am unsure if non-profit/for-profit status would affect my decision","","4","Yes","2","I am unsure if non-profit/for-profit status would affect my decision","","1","","","","","I don't know","","Yes","No","Yes","No","No","Yes","No","",""
+"14.0000000000","14.0000000000","OpenStack, libvirt, KVM, Fedora, GNOME","Yes","No","Yes","No","","5","Yes","3","I would be more likely to sign with a non-profit entity","","","No","2","I would only sign with a non-profit entity","","5","Yes","5","I would be equally willing to contribute to either","","Yes","OpenStack CLA, kernel DCO, qemu DCO","Yes","Yes","Yes","Yes","Yes","Yes","No","",""
+"26.0000000000","25.0000000000","Ooh, too many to remember, let alone list.","Yes","No","Yes","No","","3","No","","Other","I'm not sure what you're asking","2","No","3","I would be more likely to sign with a non-profit entity","","1","I don't know","","Other","I don't know what a DCO is, so can't answer","No","","I don't know","Yes","No","No","No","No","No","",""
+"17.0000000000","17.0000000000","Linux kernel
+Samba
+PHP
+MySQL
+Juju
+irssi
+Ubuntu
+Debian
+pipemeter
+OpenStack
+ACID
+Snort","Yes","No","Yes","Yes","","5","Yes","4","I would be more likely to sign with a non-profit entity","","5","Yes","2","I would be equally willing to sign with either","","","","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","","Most OSS contribution starts because consumption has very low barriers. These make it less like a ramp, and more like a set of steep stairs, when ramping up from ""user"" to ""developer""."
+"30.0000000000","28.0000000000","perl
+dist
+parrot
+gnuplot
+groff
+dt3155 (Linux device driver)
+visual python
+
+pax
+","Yes","No","No","No","","4","No","2","I would not sign with either","","3","Yes","2","I am unsure if non-profit/for-profit status would affect my decision","","1","No","","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","Yes","Yes","No","No","No","","Complex agreemnts make it harder for the casual contributor to contribute.  They are usually sufficiently complicated that I'd have
+to ask our company lawyer if I can sign it; that's a sufficiently large barrier that I've simply decided not to bother signing anything."
+"8.0000000000","4.0000000000","CPython, Gunicorn, Django, pip, GNU MediaGoblin, Hylang, Mozilla Firefox","Yes","No","No","No","","4","Yes","5","I would be more likely to sign with a non-profit entity","","","","","","","1","No","","","","No","","I don't know","Yes","No","No","No","No","No","",""
+"32.0000000000","24.0000000000","clisp, perl5, parrot, cygwin, and numerous others","Yes","No","No","No","","4","Yes","2","I am unsure if non-profit/for-profit status would affect my decision","","4","Yes","2","I am unsure if non-profit/for-profit status would affect my decision","","1","Yes","5","I am unsure if non-profit/for-profit status would affect my decision","","No","","Yes","Yes","No","No","No","No","No","",""
+"15.0000000000","15.0000000000","perl, chef","Yes","Yes","Yes","No","","4","Yes","4","I would be equally willing to sign with either","","4","Yes","4","I would be equally willing to sign with either","","1","I don't know","","","","No","","Yes","Yes","Yes","No","Yes","Yes","Yes","",""
+"20.0000000000","14.0000000000","Perl, CPAN, MongoDB, Chef","Yes","Yes","Yes","No","","5","Yes","3","I would be more likely to sign with a non-profit entity","","3","No","2","I would be more likely to sign with a non-profit entity","","2","No","4","I would be equally willing to contribute to either","","No","","Yes","Yes","N/A","No","No","No","No","","I think CLA's are a barrier to contribution. I prefer software licenses like Apache 2 that explicitly cover contributions as part of the original license.  Using commit records to track contributions seems more practical as it's nearly transparent, even though the projects I contribute to don't require an explicit ""Signed off by"" note."
+"16.0000000000","15.0000000000","Perl
+
+A bazillion Perl modules
+
+Random other things I can no longer remember but probably including mod_perl, the Apache web server (I think), some Go and JS stuff
+
+Bug reports for dozens, if not hundreds of projects
+","Yes","Yes","Yes","Yes","","3","I don't know","2","I would be more likely to sign with a non-profit entity","","3","I don't know","2","I would be more likely to sign with a non-profit entity","","1","No","5","I would be equally willing to contribute to either","","I don't know","","Yes","Yes","No","No","No","No","No","","Personally, I'd be somewhat suspicious of a for-profit company asking me to sign a contribution agreement. I'm not really willing to see my work resold for private benefit.
+
+With a non-profit (at least under US law) it's likely that use of my contribution would be constrained by the organization's declared purpose, so I'd be more willing to sign."
+"35.0000000000","20.0000000000","Exim, OpenVPN, Linux, Asterisk, many others","Yes","No","Yes","No","","5","Yes","4","I would be more likely to sign with a non-profit entity","","5","Yes","1","I would not sign with either","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","No","Yes","No","No","Yes","No","",""
+"16.0000000000","16.0000000000","Linux
+qemu
+Angband
+hal","Yes","No","Yes","No","","3","No","3","I would be more likely to sign with a non-profit entity","","3","No","2","I would be more likely to sign with a non-profit entity","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","",""
+"23.0000000000","16.0000000000","Linux","Yes","No","No","No","","5","No","","I would be more likely to sign with a non-profit entity","","5","Yes","2","I would be more likely to sign with a non-profit entity","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","I don't know","Yes","Yes","Yes","Yes","No","",""
+"32.0000000000","20.0000000000","OpenJDK, Debian","Yes","No","No","Yes","","5","Yes","2","I would be more likely to sign with a non-profit entity","","5","Yes","2","I would be more likely to sign with a non-profit entity","","5","No","5","I would be more likely to contribute to a non-profit entity","","","","Yes","Yes","Yes","No","No","Yes","No","","inbound=outbound is probably the best approach"
+"18.0000000000","5.0000000000","Linux kernel
+(listing others would identify me)","Yes","No","Yes","Yes","","2","No","1","I would not sign with either","","2","No","1","I would not sign with either","","5","Yes","5","I would be equally willing to contribute to either","","Yes","Copyright assignment to the company paying for development.","","Yes","Yes","Yes","Yes","No","No","Employer unwilling to let me sign copyright license/assigment agreement","Low bar for contribution and mutual fairness (no one way agreements to the benefit of the recipient) are important.
+"
+"5.0000000000","5.0000000000","Linux, CRIU","Yes","No","Yes","No","","5","Yes","3","I am unsure if non-profit/for-profit status would affect my decision","","5","Yes","3","I am unsure if non-profit/for-profit status would affect my decision","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","No","Yes","Yes","No","No","No","",""
+"25.0000000000","17.0000000000","many","Yes","No","Yes","Yes","","5","Yes","1","I would only sign with a non-profit entity","","5","Yes","1","I would only sign with a non-profit entity","","4","No","3","I would be more likely to contribute to a non-profit entity","","No","","Yes","Yes","Yes","No","Yes","Yes","No","",""
+"18.0000000000","18.0000000000","Perl, MySQL, various smaller pieces of GNU and Linux software","Yes","No","Yes","No","","4","No","2","I would be more likely to sign with a non-profit entity","","4","No","2","I would be more likely to sign with a non-profit entity","","4","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","","I feel uneasy about contributor assignments in particular, and to a lesser degree about licence assignments. That unease tends to be reduced in the face of non-profit organisations with a track record of standing up for the rights of individuals over those of organisations and commercial companies. I think I would be very unwilling to assign copyright in a work to a for-profit company (other than an employer) whose incentives were not clearly aligned with those of the project's wider user base."
+"30.0000000000","27.0000000000","nethack, perl, Linux, GCC, dungeon crawl, git, many others","Yes","No","No","No","","5","No","2","I would only sign with a non-profit entity","","5","No","1","I would not sign with either","","4","Yes","5","I would be equally willing to contribute to either","","No","","Yes","No","No","No","Yes","No","No","",""
+"10.0000000000","10.0000000000","If I told you it'd identify who I am because that unique combination of projects points only to me, and I'd prefer to be anonymous.","Yes","No","Yes","Yes","","5","No","1","Other","It depends on who owns and runs the non-profit. A non-profit run as a puppet for a for-profit is the same as the for profit for example. The real issue is what the CLA says and what powers it grants them. Ideally they should not use a CLA at all. Whatever concerns they have should be incorporated into the project's license itself and a CLA not used at all. Secondarily, if a CLA is used it should legally bind the project and entity doing the CLA to keep the software free software at all times (refer to FSF's copyright assignment.) As easy way to do that is not having a CLA at all and simply having a DCO-style thing with everyone keeping their copyright and not granting extra permissions to anyone else that would let them take the software proprietary. If these legal assurances were not presnt I would not agree to a CLA no matter if it's a for-profit or non-profit. This question focuses on the wrong issue.","5","Yes","","Other","See my other answer to CLA - The answer is the same. I have assigned copyright previously - to the FSF because they've been around for 30 years and have shown themselves to good a good copyright steward. Plus, their CAA obligates the FSF to keep the software free so they can't abuse the trust given. So this question, just like the one on the last page, focuses on the wrong issue. It does affect my decision based on what powers are granted, not necessarily by who gets those powers.","5","Yes","3","Other","I am fine contributing to a kernel.org-style DCO because I retain the copyright and no one gets the power to make it proprietary.","No","","Yes","Yes","Yes","No","No","No","No","I declined because their policy specifically allowed my contributions to be able to made proprietary. See my previous answers on CLA & CAA. The policy should legally bind the project to keep the software free at all times.","Some of your questions don't focus on the right issues, IMO."
+"27.0000000000","16.0000000000","Far more than I can list or remember. I touched pretty much everything I ever used.","Yes","No","Yes","Yes","","5","Yes","1","Other","I would only sign for the GNU project.","5","Yes","1","Other","I would only sign to the GNU project.","5","Yes","5","I would be more likely to contribute to a non-profit entity","","No","","Yes","Yes","Yes","Yes","Yes","Yes","No","I only contribute to FLOSS projects. Copyleft and non-copyleft (but copyleft strongly preferred)",""
+"30.0000000000","20.0000000000","mostly Debian","Yes","No","No","No","","3","Yes","2","I would be more likely to sign with a non-profit entity","","3","No","1","I would not sign with either","","3","No","4","I would be equally willing to contribute to either","","I don't know","","I don't know","Yes","No","No","No","No","No","",""
+"30.0000000000","23.0000000000","Linux, Debian, lots of others.","Yes","No","Yes","Yes","My own startup. My own savings.","4","No","2","Other","I might sign for some non-profits. I would sign for sufficient money.","4","No","2","Other","Would only sign for money.","4","Yes","5","I would be more likely to contribute to a non-profit entity","","Yes","Contracting contracts. Employment contracts.","Yes","Yes","Yes","Yes","Yes","Yes","No","",""
+"21.0000000000","18.0000000000","Linux kernel
+Debian
+Boost
+dvdauthor
+Asterisk","Yes","No","Yes","No","","3","Yes","3","I would be more likely to sign with a non-profit entity","","3","No","2","I would be more likely to sign with a non-profit entity","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","",""
+"7.0000000000","7.0000000000","Debian, Ubuntu, Linux, offlineimap","Yes","No","Yes","No","","4","Yes","5","I am unsure if non-profit/for-profit status would affect my decision","","4","No","1","I am unsure if non-profit/for-profit status would affect my decision","","5","Yes","5","I would be equally willing to contribute to either","","Yes","Evil British employment contacts","Yes","Yes","No","No","No","No","No","","Change of license and/or policy to a more strict one, always drives away existing contributors and has unknown effect on future contributions. For example, I have never declined to sign things, but then again I haven't developed any submitable code for projects I wouldn't sign things for. E.g. I disagree with FSF copyright assignment and the treatment that GPL2->3 are ""continuiations in spirit of the license"" and for example changes to GPL3 drove out Apple contributions to gcc of objc improvements and C. objectives ( see N1451 Blocks proposal), a net loss for gcc I think. Instead they invest in llvm/clang toolchain, which maybe is a more significant impact over they previous gcc efforts. A net win for total # of opensourced code?!"
+"10.0000000000","8.0000000000","UnrealIRCd, BIND, Perl, various Perl modules, Cassandra, ...
+","Yes","No","Yes","No","","3","No","2","I would not sign with either","","2","No","2","I would not sign with either","","1","No","2","I would not contribute to either","","No","","Yes","Yes","Yes","Yes","Yes","No","No","","I'm not sure I currently understand the need to sign a document to provide a patch to a project.
+
+I'm equally sure though that if I did understand, I would still find the practice distasteful and almost a 100% blocker to contributing to a project that required it."
+"14.0000000000","12.0000000000","KDE, Debian, Gentoo, other miscellaneous","Yes","No","No","No","","2","No","2","I would be more likely to sign with a non-profit entity","","1","No","1","I would not sign with either","","3","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","Yes","Yes","Yes","No","",""
+"20.0000000000","17.0000000000","Small build fixes to a large number of projects, plus several of my own.","Yes","No","Yes","No","","4","No","1","I would not sign with either","","4","No","1","I would not sign with either","","5","Yes","5","I would be equally willing to contribute to either","","No","","Yes","Yes","Yes","No","Yes","No","No","","Some of my distaste for copyright license/assignment agreements comes from my experience in academia, where copyright assignment on publication (to unethical and abusive publishers) is the norm."
+"6.0000000000","6.0000000000","Ubuntu
+Mozilla
+GNOME
+Python
+Linux Kernel
+Many More","Yes","No","No","No","","5","Yes","2","I would be more likely to sign with a non-profit entity","","5","No","2","I would only sign with a non-profit entity","","1","I don't know","3","I am unsure if non-profit/for-profit status would affect my decision","","I don't know","","Yes","Yes","Yes","Yes","Yes","Yes","No","","CLA's are a joke if you are not getting paid"
+"31.0000000000","13.0000000000","PHP, EPICS, Bazaar plugins","Yes","No","Yes","No","","3","No","4","I would be more likely to sign with a non-profit entity","","3","No","2","I would be more likely to sign with a non-profit entity","","3","No","5","I would be equally willing to contribute to either","","No","","Yes","Yes","No","No","No","No","No","",""
+"12.0000000000","11.0000000000","Mozilla, Mercurial, mypy, libvpx","Yes","No","Yes","No","","4","No","4","I would be more likely to sign with a non-profit entity","","4","No","2","I would be more likely to sign with a non-profit entity","","4","No","5","I would be equally willing to contribute to either","","No","","Yes","I don't know","No","No","No","No","No","",""
+
