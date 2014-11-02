@@ -34,10 +34,14 @@ past_fields = {
     'othernopolicy': 'No policy'
 }
 
+years = []
+
 # Calculate stats from survey results
 with open('data/developer_survey_results.csv', 'rb') as csvfile:
     results = csv.DictReader(csvfile, delimiter=',', quotechar='"')
     for row in results:
+        years.append([ int(float(row['yearsflossdeveloper'])), int(float(row['yearsdeveloper'])) ])
+
         for keyname in past_fields:
             resultkey = past_fields[keyname]
             if not resultkey in stats['signed']:
@@ -91,6 +95,14 @@ for keyname in stats['future']:
     willing = float(stats['future'][keyname]['willing']) / total * 100
     unwilling = float(stats['future'][keyname]['unwilling']) / total * 100
     line = "%s,%.2f,%.2f,%.2f,%d\n" % (agtype.upper(), willing, neutral, unwilling, total) 
+    dat_file.write(line)
+
+dat_file.close()
+
+dat_file = open('graphs/experience.dat', 'w')
+dat_file.write("# yearsflossdeveloper, yearsdeveloper\n")
+for pair in years:
+    line = "%d,%d\n" % (pair[0], pair[1])
     dat_file.write(line)
 
 dat_file.close()
