@@ -24,6 +24,13 @@ stats['future'] = {
         'unwilling': 0
     },
 }
+stats['correlate'] = {
+    'ionopolicy': {
+        'both': 0,
+        'io': 0,
+        'nopolicy': 0
+    }
+}
 
 past_fields = {
     'assignmentsigned': 'CAA',
@@ -68,6 +75,13 @@ with open('data/developer_survey_results.csv', 'rb') as csvfile:
             if rating > 3 and rating <= 5:
                 stats['future'][keyname]['willing'] += 1
 
+        if row['othersame'] == 'Yes' and row['othernopolicy'] == 'Yes':
+            stats['correlate']['ionopolicy']['both'] += 1
+        elif row['othersame'] == 'Yes':
+            stats['correlate']['ionopolicy']['io'] += 1
+        elif row['othernopolicy'] == 'Yes':
+            stats['correlate']['ionopolicy']['nopolicy'] += 1
+
 # Write out stats suitable for graph generation
 dat_file = open('graphs/signed.dat', 'w')
 dat_file.write("# type,signed,total,percentage\n")
@@ -105,4 +119,9 @@ for pair in years:
     line = "%d,%d\n" % (pair[0], pair[1])
     dat_file.write(line)
 
+dat_file.close()
+
+dat_file = open('graphs/ionopolicy.dat', 'w')
+line = "%s,%s,%s\n" % (stats['correlate']['ionopolicy']['io'],stats['correlate']['ionopolicy']['both'],stats['correlate']['ionopolicy']['nopolicy'])
+dat_file.write(line)
 dat_file.close()
